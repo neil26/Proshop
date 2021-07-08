@@ -10,13 +10,13 @@ const Footer = () => {
 				</div>
 			</footer>
 
-			{/* <Container>
+			<Container>
 				<Row>
-					<Col classNameName="text-center py-3">
+					<Col className="text-center py-3">
 						Copyright &copy;Nilkanth Kulkarni
 					</Col>
 				</Row>
-			</Container> */}
+			</Container>
 		</footer>
 	);
 };

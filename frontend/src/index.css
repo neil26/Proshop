@@ -11,6 +11,14 @@ code {
 	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
 		monospace;
 } */
+h1 {
+	font-size: 1.8rem !important;
+	padding: 0.1rem !important;
+}
+h2 {
+	font-size: 1.4rem !important;
+	padding: 0.5rem 0 !important;
+}
 main {
 	min-height: 80vh;
 }
